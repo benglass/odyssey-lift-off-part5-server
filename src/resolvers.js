@@ -49,7 +49,7 @@ const resolvers = {
       return length;
     },
   },
-  Modules: {
+  Module: {
     durationInSeconds: ({ length }) => {
       return length;
     },
